@@ -1,0 +1,10 @@
+*.jpg
+*.jpeg
+*.txt
+
+hf_local/image-to-image/model/*/
+
+!hf_provider/text-to-image/data/prompt.txt
+!hf_provider/text-to-image/predictions/prompt.png
+!hf_local/image-to-image/data/pexels-eminumana-2918786.jpg
+!hf_local/image-to-image/data/pexels-eminumana-2918786.txt
